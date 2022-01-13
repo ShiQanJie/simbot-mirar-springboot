@@ -81,6 +81,10 @@ public class MyGroupListen {
         System.out.println(groupInfo.getGroupCode());
         System.out.println(groupInfo.getGroupName());
     }
+    @OnGroup
+    public void demo(){
+
+    }
 
 
 
